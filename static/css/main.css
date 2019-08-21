@@ -25,6 +25,9 @@ button:hover,
 .btn:hover {
   cursor: pointer !important;
 }
+.btn {
+  white-space: normal;
+}
 .btn-primary {
   background-color: #0bb8be;
   border-color: #0bb8be;
